@@ -92,7 +92,9 @@ Updates Coming Soon
 
 </details>
 
-### Thanks for stopping by ![visitors](https://visitor-badge.glitch.me/badge?page_id=${1coldpizza}.${471850738}) 
+### Thanks for stopping by 
+![Visitor Count](https://profile-counter.glitch.me/{1coldpizza}/count.svg)  Vistors
+ 
 
 <!-- [website]: https://1coldpizza.com
 [course]: http://vsCodeHero.com
