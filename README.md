@@ -1,4 +1,4 @@
-# What's Up My Name Is June Green aka 1ColdPizza 👋 
+# What's Up, My Name Is June Green aka 1ColdPizza 👋 
 
 <!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=1coldpizza.com&style=for-the-badge&url=https%3A%2F%2F1coldpizza.com)](https://1coldpizza.com) -->
