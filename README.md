@@ -14,7 +14,7 @@
 - 🥅 2022 Goals: Learn more about web3 and land a web3 job
 - 🔭 I’m currently working on all of the 🦄 buildspace Projects
 - 🎓 Studying Game Development at Full Sail University
-- ⚡ Fun fact: I love watching MMA, I love to sing/dance/practice guitar and I am a OG hyena/Admin in the Hyena Hut investment Team (Tell em "1coldpizza" sent ya 😛) [hyena hut]
+- ⚡ Fun fact: I love watching MMA, I love to sing/dance/practice guitar and I am a OG hyena/Admin for the Hyena Hut investment Team (Tell em "1coldpizza" sent ya 😛) [hyena hut]
 
 ### Connect with me:
 
