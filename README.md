@@ -9,7 +9,7 @@
 
 ## I'm a Husband, Father, And Developer!!
 
-- 🌱 I’m currently learning all things web3 related. hyper focus on solidity & smart contracts
+- 🌱 I’m currently learning all things web3 related. Hyper focused on solidity & smart contracts
 - 👯 I’m looking to collaborate with other coders so I can build up my portfolio
 - 🥅 2022 Goals: Learn more about web3 and land a web3 job
 - 🔭 I’m currently working on all of the 🦄 buildspace Projects
